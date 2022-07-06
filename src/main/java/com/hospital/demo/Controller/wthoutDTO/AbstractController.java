@@ -1,7 +1,8 @@
-package com.hospital.demo.Controller.withDTO.withoutDTO;
+package com.hospital.demo.Controller.wthoutDTO;
 
-import com.hospital.demo.Service..CommonService;
 import com.hospital.demo.Entity.DistributedEntity;
+import com.hospital.demo.Service.withoutDTO.CommonService;
+
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
