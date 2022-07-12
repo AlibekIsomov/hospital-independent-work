@@ -14,5 +14,30 @@ public class Davolanish extends DistributedEntity{
     private Kasallik kasallik;
 @ManyToOne
     private Xona xona;
+    
+public Bemor getBemor() {
+    return bemor;
+}
+public void setBemor(Bemor bemor) {
+    this.bemor = bemor;
+}
+public Shifokor getShifokor() {
+    return Shifokor;
+}
+public void setShifokor(Shifokor shifokor) {
+    Shifokor = shifokor;
+}
+public Kasallik getKasallik() {
+    return kasallik;
+}
+public void setKasallik(Kasallik kasallik) {
+    this.kasallik = kasallik;
+}
+public Xona getXona() {
+    return xona;
+}
+public void setXona(Xona xona) {
+    this.xona = xona;
+}
 
 }

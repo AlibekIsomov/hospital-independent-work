@@ -2,7 +2,7 @@ package com.hospital.demo.Service.withoutDTO.impl;
 
 import com.hospital.demo.Entity.Shifokor;
 import com.hospital.demo.Repository.DistributedRepository;
-import com.hospital.demo.Service.withDTO.ShifokorService;
+import com.hospital.demo.Service.withoutDTO.ShifokorService;
 
 import org.springframework.stereotype.Service;
 

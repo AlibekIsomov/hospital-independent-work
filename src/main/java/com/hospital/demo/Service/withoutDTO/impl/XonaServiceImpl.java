@@ -3,7 +3,7 @@ package com.hospital.demo.Service.withoutDTO.impl;
 
 import com.hospital.demo.Entity.Xona;
 import com.hospital.demo.Repository.DistributedRepository;
-import com.hospital.demo.Service.withDTO.XonaService;
+import com.hospital.demo.Service.withoutDTO.XonaService;
 
 import org.springframework.stereotype.Service;
 

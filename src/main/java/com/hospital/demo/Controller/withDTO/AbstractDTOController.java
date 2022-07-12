@@ -1,9 +1,10 @@
 package com.hospital.demo.Controller.withDTO;
 
 
-import com.hospital.demo.Service.withDTO.CommonServiceDto;
 import com.hospital.demo.dto.BaseDTO;
 import com.hospital.demo.Entity.DistributedEntity;
+import com.hospital.demo.Service.withDTO.CommonServiceDto;
+
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,6 +1,6 @@
 package com.hospital.demo.Service.withoutDTO;
 
-import com.hospital.demo.Entity.Shifokor;
+import com.hospital.demo.Entity.Kasallik;
 
-public interface KasallikService extends CommonService<Shifokor> {
+public interface KasallikService extends CommonService<Kasallik> {
 }

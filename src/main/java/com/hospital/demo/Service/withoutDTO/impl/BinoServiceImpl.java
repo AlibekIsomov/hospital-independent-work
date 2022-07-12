@@ -3,7 +3,7 @@ package com.hospital.demo.Service.withoutDTO.impl;
 
 import com.hospital.demo.Entity.Bino;
 import com.hospital.demo.Repository.DistributedRepository;
-import com.hospital.demo.Service.withDTO.BinoService;
+import com.hospital.demo.Service.withoutDTO.BinoService;
 
 import org.springframework.stereotype.Service;
 

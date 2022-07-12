@@ -5,6 +5,7 @@ import com.hospital.demo.Entity.DistributedEntity;
 import com.hospital.demo.Repository.DistributedRepository;
 import com.hospital.demo.Service.withDTO.CommonServiceDto;
 import com.hospital.demo.dto.BaseDTO;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.data.domain.Page;

@@ -1,8 +1,8 @@
 package com.hospital.demo.Repository;
 
 import com.hospital.demo.Entity.Bemor;
-import javax.persistence.Entity;
+import org.springframework.stereotype.Repository;
 
-@Entity
+@Repository
 public interface BemorRepository extends DistributedRepository<Bemor> {
 }
